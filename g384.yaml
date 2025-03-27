@@ -1,0 +1,7 @@
+# crack
+train: F:\vscodecode\ultralytics-8.1.0\g384\train\images  # train images (relative to 'path')
+val: F:\vscodecode\ultralytics-8.1.0\g384\train\labels # val images (relative to 'path')
+
+# Classes
+names:
+  0: crack
